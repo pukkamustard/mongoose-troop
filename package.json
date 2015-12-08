@@ -11,15 +11,15 @@
     "test": "make test && make clean"
   },
   "optionalDependencies" : {
-    "bcrypt": "~0.7.0",
+    "bcrypt": "~0.8.5",
     "redis": ">= 0.7.1"
   },
   "dependencies" : {
-    "directory": "0.0.x", 
-    "mongoose": "~3.5.8"
+    "directory": "0.1.x", 
+    "mongoose": "~4.2.9"
   },
   "devDependencies" : {
-    "mocha": "~1.8.2"
+    "mocha": "~2.3.4"
   },
   "repository" : {
     "type" : "git",
